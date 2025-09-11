@@ -24,5 +24,5 @@ jobs:
         with:
           context: .
           push: true
-          tags: server_web:$(date +%s) # ghcr.io/${{ github.repository }}:sha-${{ github.sha }},ghcr.io/${{ github.repository }}:latest
+          tags:  ghcr.io/${{ github.repository }}:sha-${{ github.sha }},ghcr.io/${{ github.repository }}:latest
           provenance: false
