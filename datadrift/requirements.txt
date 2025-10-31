@@ -1,0 +1,6 @@
+eurybia
+alibi-detect
+torch
+torchvision
+alibi-detect[tensorflow]
+pandas

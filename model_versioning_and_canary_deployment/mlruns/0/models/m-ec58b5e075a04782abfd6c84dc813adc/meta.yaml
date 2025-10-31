@@ -1,0 +1,10 @@
+artifact_location: file:///home/lois/Documents/mlops/tp2/mlruns/0/models/m-ec58b5e075a04782abfd6c84dc813adc/artifacts
+creation_timestamp: 1757946638374
+experiment_id: '0'
+last_updated_timestamp: 1757946640107
+model_id: m-ec58b5e075a04782abfd6c84dc813adc
+model_type: null
+name: model
+source_run_id: 722e144321c74d7e93e73de11f9948a4
+status: 2
+status_message: null

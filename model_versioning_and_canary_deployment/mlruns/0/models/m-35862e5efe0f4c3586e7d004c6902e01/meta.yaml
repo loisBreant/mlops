@@ -1,0 +1,10 @@
+artifact_location: file:///home/lois/Documents/mlops/tp2/mlruns/0/models/m-35862e5efe0f4c3586e7d004c6902e01/artifacts
+creation_timestamp: 1757940632755
+experiment_id: '0'
+last_updated_timestamp: 1757940634267
+model_id: m-35862e5efe0f4c3586e7d004c6902e01
+model_type: null
+name: rf_model
+source_run_id: a2792e27c81d4c7593b1cf110bb025d9
+status: 2
+status_message: null

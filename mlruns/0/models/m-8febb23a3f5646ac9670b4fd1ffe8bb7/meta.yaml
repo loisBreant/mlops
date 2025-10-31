@@ -1,0 +1,10 @@
+artifact_location: file:///home/lois/Documents/mlops/mlruns/0/models/m-8febb23a3f5646ac9670b4fd1ffe8bb7/artifacts
+creation_timestamp: 1757941692687
+experiment_id: '0'
+last_updated_timestamp: 1757941694210
+model_id: m-8febb23a3f5646ac9670b4fd1ffe8bb7
+model_type: null
+name: random-forest-model
+source_run_id: 44f06452ac874b56b150aba0686e9336
+status: 2
+status_message: null

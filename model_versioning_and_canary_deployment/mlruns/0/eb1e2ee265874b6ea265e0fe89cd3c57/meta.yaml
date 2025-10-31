@@ -1,0 +1,14 @@
+artifact_uri: file:///home/lois/Documents/mlops/tp2/mlruns/0/eb1e2ee265874b6ea265e0fe89cd3c57/artifacts
+end_time: 1757941493517
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eb1e2ee265874b6ea265e0fe89cd3c57
+run_name: iris-rf-run
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757941492016
+status: 3
+tags: []
+user_id: lois

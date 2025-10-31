@@ -1,0 +1,12 @@
+services:
+  model-service:
+    build:
+      context: ./tp2
+    container_name: mlops-model-service
+    environment:
+      MLFLOW_TRACKING_URI: file:///home/lois/Documents/mlops/tp2/mlruns
+      MODEL_URI: models:/m-0600ab11415a4868848f2f81cefb219a
+    ports:
+      - "8000:8000"
+    volumes:
+      - /home/lois/Documents/mlops/tp2/mlruns:/home/lois/Documents/mlops/tp2/mlruns

@@ -1,0 +1,22 @@
+artifact_path: file:///home/lois/Documents/mlops/tp2/mlruns/0/models/m-dce3bf27d5e041479a7c6c5371bfd9b2/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.1
+mlflow_version: 3.3.2
+model_id: m-dce3bf27d5e041479a7c6c5371bfd9b2
+model_size_bytes: 836
+model_uuid: m-dce3bf27d5e041479a7c6c5371bfd9b2
+prompts: null
+run_id: a5f3fbfc678f456f875812c48f671458
+utc_time_created: '2025-09-15 12:39:35.424021'

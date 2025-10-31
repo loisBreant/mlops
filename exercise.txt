@@ -1,0 +1,9 @@
+- introduction a la quantization : ok mais faut repaser dessus 
+- introduction fpga : non
+- projets : non
+- machine learning embarqueI : ok 
+- model versionning and canary development : to finish
+- datadrift : to finish
+- Big data with kafka : to finish
+- Big data with kafka 2 : ?
+- Machine learning in production I : ok

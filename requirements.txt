@@ -2,3 +2,6 @@ fastapi[standard]
 uvicorn
 joblib
 scikit-learn
+mlflow
+kafka-python
+eurybia

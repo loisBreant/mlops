@@ -1,0 +1,10 @@
+artifact_location: file:///home/lois/Documents/mlops/tp2/mlruns/0/models/m-dce3bf27d5e041479a7c6c5371bfd9b2/artifacts
+creation_timestamp: 1757939975418
+experiment_id: '0'
+last_updated_timestamp: 1757939976959
+model_id: m-dce3bf27d5e041479a7c6c5371bfd9b2
+model_type: null
+name: log_reg_model
+source_run_id: a5f3fbfc678f456f875812c48f671458
+status: 2
+status_message: null

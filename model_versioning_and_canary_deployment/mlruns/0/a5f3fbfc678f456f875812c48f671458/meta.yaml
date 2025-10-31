@@ -1,0 +1,14 @@
+artifact_uri: file:///home/lois/Documents/mlops/tp2/mlruns/0/a5f3fbfc678f456f875812c48f671458/artifacts
+end_time: 1757939976960
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a5f3fbfc678f456f875812c48f671458
+run_name: debonair-duck-545
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757939975390
+status: 3
+tags: []
+user_id: lois
