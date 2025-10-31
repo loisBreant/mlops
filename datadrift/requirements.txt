@@ -4,3 +4,8 @@ torch
 torchvision
 alibi-detect[tensorflow]
 pandas
+
+fastapi
+uvicorn
+joblib
+requests
